@@ -1,15 +1,12 @@
 ![Open Source at System64Intel](https://github.com/System64Intel/System64Intel/blob/main/banaaa.png)
 
-## Get Involved
+## Details
 
-Right now, open communities are building amazing software together, and there are excellent "good first issue" opportunities, if you're looking to get involved.
-
-* [Explore featured projects](https://opensource.microsoft.com/projects/)
-* [Explore open source jobs at Microsoft](https://careers.microsoft.com/us/en/search-results?keywords=open%20source)
-* [Apply for Azure credits for open source projects](https://opensource.microsoft.com/azure-credits)
-
-Visit [opensource.microsoft.com](https://opensource.microsoft.com) to learn more!
-
+I love malware and editing it to give it on YouTube.
+I'm currently learning how to make malware!
 ----
+* [Home Page](http://system64intel.cf/))
+* [YouTube](https://www.youtube.com/channel/UCxfDkBppjnE1XEhc9D01W5w)
+* [Twitter](https://twitter.com/System64Intel)
 
-Microsoft projects adopt the [Microsoft Open Source Code of Conduct](https://opensource.microsoft.com/codeofconduct/). For more information see the [Code of Conduct FAQ](https://opensource.microsoft.com/codeofconduct/faq/).
+Check it out!
